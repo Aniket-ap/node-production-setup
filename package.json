@@ -1,0 +1,17 @@
+{
+  "name": "backend-ts-production",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prepare": "husky",
+    "test": "node test.js"
+  },
+  "author": "Aniket Pradhan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "husky": "^9.1.6",
+    "lint-staged": "^15.2.10"
+  }
+}
